@@ -1,0 +1,13 @@
+{
+    "name": "yii-ext/scroll-up",
+    "description": "Infinite scroll-up pager",
+    "homepage": "https://github.com/yii-ext/scroll-up/",
+    "type": "yii-extension",
+    "authors": [
+        {
+            "name": "Dmitry Semenov",
+            "email": "disemx@gmail.com",
+            "homepage": "http://disem.org/"
+        }
+    ],
+}
